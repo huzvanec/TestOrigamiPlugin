@@ -1,0 +1,6 @@
+name: TestOrigamiPlugin
+version: '1.0.0'
+main: cz.jeme.testorigami.TestOrigamiPlugin
+api-version: '1.21'
+authors: [ Hužva ]
+description: A plugin to test origami
